@@ -17,5 +17,3 @@
 - Home page 
 - todo page
 - Not found page
-
-Deployed link : 
